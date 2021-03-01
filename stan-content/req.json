@@ -1,0 +1,8 @@
+{
+  "control" : {
+  "callback" : "sp.com/callback",
+  "intent" : 2,
+  "lang" : "de_DE",
+  "appRedirect" : "https://google.com.br/?q={{uuid}}"
+  }
+}
